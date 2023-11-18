@@ -9,7 +9,7 @@ const Navbar = () => {
                 <div className='flex justify-between items-center w-full'>
                     <Link href='/'>
                         <h1 className='text-2xl font-medium'>
-                            Razak's <span className='text-green-500'>Blog</span>
+                        Razak&apos;s <span className='text-green-500'>Blog</span>
                         </h1>
                     </Link>
                     <Themebutton />
